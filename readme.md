@@ -2,4 +2,5 @@
 
 - Node
 - Express
-- SOLID
+- S.O.L.I.D.
+- Swagger
