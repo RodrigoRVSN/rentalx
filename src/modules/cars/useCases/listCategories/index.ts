@@ -15,4 +15,3 @@ export default (): ListCategoriesController => {
 
   return listCategoriesController;
 };
-c
