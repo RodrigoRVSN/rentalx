@@ -4,6 +4,8 @@ import swaggerUi from 'swagger-ui-express';
 
 import './database';
 
+import './shared/container';
+
 import swaggerConfig from '../swagger.json';
 import { router } from './routes';
 
