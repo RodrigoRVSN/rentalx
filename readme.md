@@ -11,13 +11,12 @@ rentalx
 ___
 <!--- #################### mudar badges #################### --->
 
-
+![image](https://user-images.githubusercontent.com/75763403/141459793-c255ff08-8bb5-4161-b18d-9865bfa5c437.png)
 
 <!--- #################### mudar imagem exemplo #################### --->
 
-> This site was made to manage your finances (https://github.com/RodrigoRVSN/rentalx)
-- Authentication with backend made in Nodejs (express)
-- Frontend with Next
+> This API was made to rental cars (https://github.com/RodrigoRVSN/rentalx)
+
 ___
 ## 💻 Prerequisites
 
